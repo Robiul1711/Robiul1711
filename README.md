@@ -1,7 +1,7 @@
 
 ![Code. Create. Evolve. | MERN Stack • Problem Solver • Lifelong Learner](https://github.com/Robiul1711/Ashiq1711/blob/main/ashiq.png)
 
-<h1 align="center">Hi 👋, I'm Robiul Islam (Ashiq)</h1>
+<h1 align="center">Hi 👋 I'm Robiul Islam (Ashiq)</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 <h4 align="center">Code. Create. Evolve. | MERN Stack • Problem Solver • Lifelong Learner</h4>
 
@@ -66,7 +66,7 @@ Skills: JavaScript/ BOOTSTRAP / REACT / HTML / CSS
 [![Weblitical](https://github.com/Webgenius0/poseidon2301-frontend)](https://github.com/Webgenius0/poseidon2301-frontend)
 
 <p align="left">
-  <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Robiul1711?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -77,7 +77,7 @@ Skills: JavaScript/ BOOTSTRAP / REACT / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/Robiul1711">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robiul1711&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robiul1711&theme=radical" alt="Robiul's GitHub Contribution"/>
   </a>
 </p>
 
@@ -87,7 +87,7 @@ Skills: JavaScript/ BOOTSTRAP / REACT / HTML / CSS
   <br/>
 </a>
 
-![Robiul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Robiul1711&custom_title=Robiuk's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Robiul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Robiul1711&custom_title=Robiul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
