@@ -19,27 +19,16 @@ Continuously exploring new technologies like TypeScript, GraphQL, and web animat
 
 ---
 
-### 📲 Connect with Me  
+### 💌 Let’s Connect  
 
-<div align="center">
+<p align="center">
+  <a href="https://fb.com/Robiul1711"><img src="https://skillicons.dev/icons?i=facebook" width="50" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/robiul-islam-ashiq-5081b2194/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/ashiq_17.11"><img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/></a>
+  <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter"/></a>
+  <a href="mailto:robiulislam.1711@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/></a>
+</p>
 
-<a href="https://fb.com/Robiul1711" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.linkedin.com/in/robiul-islam-ashiq-5081b2194/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/ashiq_17.11" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://twitter.com" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:robiulislam.1711@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
 
 
 ---
