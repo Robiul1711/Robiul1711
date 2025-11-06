@@ -3,10 +3,6 @@
 <!-- <img src="https://github.com/Robiul1711/Ashiq1711/blob/main/ashiq.png" alt="Robiul Islam Banner" height="280" /> -->
 
 # 👋 Hi, I'm **Robiul Islam (Ashiq)**
-### 🚀 Full-Stack Web Developer | MERN Stack • Problem Solver • Lifelong Learner
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Robiul1711&color=red)](https://github.com/Robiul1711)
-
 </div>
 
 
