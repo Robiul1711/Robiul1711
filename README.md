@@ -13,16 +13,13 @@
 ---
 
 ### 🧑‍💻 About Me
+MERN Stack Developer with over 1 year of hands-on experience in designing and developing responsive, full-stack web applications. Passionate about crafting scalable architectures, writing clean, maintainable code, and delivering exceptional user experiences.
 
-- 🔭 I’m currently working at [**Softvence Agency**](https://softvence.agency/)
-- 🌱 Expanding skills in:
-  - 🎨 Web Animation (Framer Motion, GSAP)
-  - 🟢 Node.js & Backend Development
-  - 🧠 Problem Solving & Algorithms
-- 👨‍💻 All my projects are on [GitHub](https://github.com/Ashiq1711)
-- 💬 Ask me about: **HTML5, CSS3, JavaScript, Bootstrap**
-- 📫 Email me: **robiulislam.1711@gmail.com**
-- 🌐 Portfolio: [ashiq-ashiqs-projects.vercel.app](https://ashiq-ashiqs-projects-149a32e5.vercel.app/)
+Proficient in React, Next.js, Node.js, Express, and MongoDB, with a strong grasp of RESTful API design, state management (Redux, React Query), and authentication systems.
+
+Experienced in building modern front-end interfaces using Tailwind CSS, Ant Design, and Framer Motion for seamless UX. On the backend, skilled at structuring secure APIs, integrating third-party services, and optimizing database performance.
+
+Continuously exploring new technologies like TypeScript, GraphQL, and web animations to enhance development efficiency and product quality.
 
 ---
 
