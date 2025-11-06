@@ -55,35 +55,18 @@ Continuously exploring new technologies like TypeScript, GraphQL, and web animat
 
 
 
-### 🔥 Featured Projects
-
-| Project Name | Repository |
-|--------------|------------|
-| **Front-End Projects** | [poseidon2301-frontend](https://github.com/Webgenius0/poseidon2301-frontend) |
-| **Weblitical** | [poseidon2301-frontend](https://github.com/Webgenius0/poseidon2301-frontend) |
-
-👉 [All My Repos](https://github.com/Robiul1711?tab=repositories)
-
-
-
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="">
-
 <!-- ✅ Full Width Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robiul1711&theme=radical" alt="Robiul's GitHub Summary" width="100%" />
 
 <!-- ✅ 2-Column Grid for Stats -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 40px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 40px;"> <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Robiul1711&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" /> <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Robiul1711&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" /> </div>
 
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Robiul1711&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Robiul1711&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-
-</div>
 
 <!-- ✅ Activity Graph Full Width -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robiul1711&custom_title=Robiul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robiul1711&custom_title=Robiul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" width="100%" /> -->
 
 </div>
 
