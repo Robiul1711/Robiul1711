@@ -58,7 +58,7 @@ Continuously exploring new technologies like TypeScript, GraphQL, and web animat
 
 ### Let’s Connect  
 
-<p align="center">
+<p align="">
   <a href="https://fb.com/Robiul1711" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" alt="Facebook"/>
   </a>
