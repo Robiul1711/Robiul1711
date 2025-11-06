@@ -1,9 +1,12 @@
 ## 👩‍💻 About Me
 
-I'm Towfiq Islam a motivated and detail-oriented **Front-End Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
-I'm Towfiq Islam, a motivated and detail-oriented **Front-End Developer** with hands-on experience in building modern, responsive, and user-friendly web applications using **Next.js**, **React**, and **TypeScript**.  
-Proven ability to collaborate effectively with UI/UX designers and backend developers in fast-paced, team-oriented environments.  
-Adept at managing multiple projects, solving complex bugs, and communicating with clients to deliver clean, scalable, and high-performing solutions.
+MERN Stack Developer with over 1 year of hands-on experience in designing and developing responsive, full-stack web applications. Passionate about crafting scalable architectures, writing clean, maintainable code, and delivering exceptional user experiences.
+
+Proficient in React, Next.js, Node.js, Express, and MongoDB, with a strong grasp of RESTful API design, state management (Redux, React Query), and authentication systems.
+
+Experienced in building modern front-end interfaces using Tailwind CSS, Ant Design, and Framer Motion for seamless UX. On the backend, skilled at structuring secure APIs, integrating third-party services, and optimizing database performance.
+
+Continuously exploring new technologies like TypeScript, GraphQL, and web animations to enhance development efficiency and product quality.
 
 
 ## 🛠 Tech Stack
@@ -44,10 +47,10 @@ Adept at managing multiple projects, solving complex bugs, and communicating wit
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=towfiqislambd&theme=tokyonight&hide_border=true&mode=daily&nclude_all_commits=true&count_private=true" /> 
+      <img src="https://streak-stats.demolab.com?user=robiul1711&theme=tokyonight&hide_border=true&mode=daily&nclude_all_commits=true&count_private=true" /> 
     </td>
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=towfiqislambd&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&nclude_all_commits=true&count_private=true" /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robiul1711&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&nclude_all_commits=true&count_private=true" /> 
     </td>
   </tr>
 </table>
