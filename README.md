@@ -19,19 +19,6 @@ Continuously exploring new technologies like TypeScript, GraphQL, and web animat
 
 ---
 
-### 💌 Let’s Connect  
-
-<p align="center">
-  <a href="https://fb.com/Robiul1711"><img src="https://skillicons.dev/icons?i=facebook" width="50" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/robiul-islam-ashiq-5081b2194/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/ashiq_17.11"><img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/></a>
-  <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter"/></a>
-  <a href="mailto:robiulislam.1711@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/></a>
-</p>
-
-
-
----
 
 ### 🛠️ Tech Stack
 
@@ -69,6 +56,19 @@ Continuously exploring new technologies like TypeScript, GraphQL, and web animat
 
 ---
 
+### 💌 Let’s Connect  
+
+<p align="center">
+  <a href="https://fb.com/Robiul1711"><img src="https://skillicons.dev/icons?i=facebook" width="50" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/robiul-islam-ashiq-5081b2194/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/ashiq_17.11"><img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/></a>
+  <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter"/></a>
+  <a href="mailto:robiulislam.1711@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/></a>
+</p>
+
+
+
+---
 ### 🔥 Featured Projects
 
 | Project Name | Repository |
