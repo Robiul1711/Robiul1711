@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="220" src="https://github.com/Robiul1711/Robiul1711/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner%20(1).gif" />
+  <img height="220" src="https://github.com/Robiul1711/Robiul1711/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.gif" />
 </div>
 
 
