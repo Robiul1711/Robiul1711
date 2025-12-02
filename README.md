@@ -2,7 +2,9 @@
 <div align="center">
   <img height="220" src="https://github.com/Robiul1711/Robiul1711/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.gif" />
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=029BC0&center=true&vCenter=true&width=800&lines=🌟+Front-End+Developer;⚛️+React+Developer;🔥+MERN+Stack+Enthusiast;💻+JavaScript+Lover;📦+MongoDB+Specialist;🚀+Express+JS+Expert" alt="Typing SVG" />
+</div>
 
 
 
